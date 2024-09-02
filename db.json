@@ -1,0 +1,25 @@
+{
+    "usuarios": [
+        { "id": 1, "username": "Juan", "userlastname": "Gonzalez", "diagnosis": "Parkinson", "date": "2024-08-01", "notes": "Prescribed levodopa. Follow-up in 3 months." },
+        { "id": 2, "username": "Maria", "userlastname": "Lopez", "diagnosis": "Diabetes", "date": "2024-08-02", "notes": "Adjusted insulin dosage. Monitor blood sugar levels daily." },
+        { "id": 3, "username": "Carlos", "userlastname": "Martinez", "diagnosis": "Hypertension", "date": "2024-08-03", "notes": "Started on ACE inhibitors. Recommended low-sodium diet." },
+        { "id": 4, "username": "Ana", "userlastname": "Perez", "diagnosis": "Asthma", "date": "2024-08-04", "notes": "Prescribed inhaler. Advised to avoid allergens." },
+        { "id": 5, "username": "Luis", "userlastname": "Garcia", "diagnosis": "Coronary Artery Disease", "date": "2024-08-05", "notes": "Referred to cardiology. Scheduled for stress test." },
+        { "id": 6, "username": "Sofia", "userlastname": "Rodriguez", "diagnosis": "Chronic Kidney Disease", "date": "2024-08-06", "notes": "Advised to limit protein intake. Scheduled for nephrology consultation." },
+        { "id": 7, "username": "Miguel", "userlastname": "Hernandez", "diagnosis": "Hyperlipidemia", "date": "2024-08-07", "notes": "Started on statins. Follow-up in 6 weeks." },
+        { "id": 8, "username": "Laura", "userlastname": "Fernandez", "diagnosis": "Osteoarthritis", "date": "2024-08-08", "notes": "Prescribed NSAIDs. Physical therapy recommended." },
+        { "id": 9, "username": "Jose", "userlastname": "Ruiz", "diagnosis": "Chronic Obstructive Pulmonary Disease (COPD)", "date": "2024-08-09", "notes": "Recommended pulmonary rehabilitation. Prescribed bronchodilators." },
+        { "id": 10, "username": "Elena", "userlastname": "Gomez", "diagnosis": "Anemia", "date": "2024-08-10", "notes": "Started iron supplements. Follow-up in 2 months." },
+        { "id": 11, "username": "Ramon", "userlastname": "Diaz", "diagnosis": "Rheumatoid Arthritis", "date": "2024-08-11", "notes": "Prescribed DMARDs. Advised to avoid strenuous activities." },
+        { "id": 12, "username": "Carmen", "userlastname": "Moreno", "diagnosis": "Depression", "date": "2024-08-12", "notes": "Started on SSRIs. Recommended psychotherapy." },
+        { "id": 13, "username": "Daniel", "userlastname": "Romero", "diagnosis": "Migraine", "date": "2024-08-13", "notes": "Prescribed triptans. Advised to avoid triggers like caffeine." },
+        { "id": 14, "username": "Sara", "userlastname": "Alvarez", "diagnosis": "Epilepsy", "date": "2024-08-14", "notes": "Adjusted antiepileptic medication. Follow-up in 1 month." },
+        { "id": 15, "username": "Pedro", "userlastname": "Molina", "diagnosis": "Obesity", "date": "2024-08-15", "notes": "Referred to nutritionist. Recommended regular exercise." },
+        { "id": 16, "username": "Rosa", "userlastname": "Vega", "diagnosis": "Chronic Back Pain", "date": "2024-08-16", "notes": "Prescribed muscle relaxants. Advised physical therapy." },
+        { "id": 17, "username": "Diego", "userlastname": "Santos", "diagnosis": "Alzheimer's Disease", "date": "2024-08-17", "notes": "Started on cholinesterase inhibitors. Follow-up in 3 months." },
+        { "id": 18, "username": "Alicia", "userlastname": "Cruz", "diagnosis": "Psoriasis", "date": "2024-08-18", "notes": "Prescribed topical steroids. Advised to avoid stress." },
+        { "id": 19, "username": "Manuel", "userlastname": "Ortega", "diagnosis": "Gastroesophageal Reflux Disease (GERD)", "date": "2024-08-19", "notes": "Prescribed proton pump inhibitors. Advised dietary modifications." },
+        { "id": 20, "username": "Eva", "userlastname": "Ramos", "diagnosis": "Multiple Sclerosis", "date": "2024-08-20", "notes": "Started on disease-modifying therapy. Follow-up in 2 months." }
+    
+    ]
+  }
